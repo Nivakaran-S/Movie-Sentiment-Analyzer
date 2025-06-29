@@ -37,6 +37,7 @@ The model was built using:
    ```bash
    git clone https://github.com/your-username/movie-sentiment-analyzer.git
    cd movie-sentiment-analyzer
+   ```
 
 2. **Install dependencies**:
   ```bash
